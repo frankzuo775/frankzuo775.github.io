@@ -3,11 +3,12 @@ body {
 }
 
 .header{
-  background-image:url(https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg);
+ background-color:darkgray;
   backround-size:cover;
   background-repeat:no-repeat;
-  color:white;
+  color:forestgreen;
   padding:20px;
+  font-size: 25px;
   opacity:0.99;
 
   
