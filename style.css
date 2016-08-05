@@ -5,8 +5,9 @@ body {
 .header{
     
   background-image:url("futuristic-city-wallpaper-6.jpg");
-  backround-size:cover;
+  background-size:cover;
   background-repeat:no-repeat;
+  background-position:center center;
   color:forestgreen;
   padding:20px;
   font-size: 25px;
@@ -19,4 +20,5 @@ body {
  width:125px;
  padding-left:350px;
 position: relative; bottom:100px;
+opacity:0.3;
 }
