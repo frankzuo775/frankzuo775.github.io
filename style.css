@@ -3,7 +3,8 @@ body {
 }
 
 .header{
- background-color:darkgray;
+    
+  background-image:url("futuristic-city-wallpaper-6.jpg");
   backround-size:cover;
   background-repeat:no-repeat;
   color:forestgreen;
